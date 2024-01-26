@@ -1,0 +1,1 @@
+dbVenta-cnx: server=localhost; database=db_venta; integrated security=true;TrustServerCertificate=True;

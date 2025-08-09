@@ -3,3 +3,8 @@ url-base-servicio-stock: https://localhost:7065
 log-mongo-server-db: mongodb://localhost:27017/dbLogs
 log-mongo-db-collection: logs-ventas
 url-base-servicio-pago: https://localhost:7065
+VaultName: WebApi-AKV
+VaultURI: https://webapi-akv.vault.azure.net/
+DirectoryTenantID: c2733566-d91b-4f6b-9815-02680dfa5b9a
+ApplicationClientID: 8ad57b3e-5e5b-45d3-a07b-dc8310f95849
+MyWebApiValue: 4DF8Q~DWP4LjKm5FlNpy3t7~sgj7JRGnHf6Vncud
